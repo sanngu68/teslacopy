@@ -1,0 +1,32 @@
+body {
+  background: url("https://www.tesla.com/ns_videos/homepage/main_hero_homepage_desktop.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.middlemenu h1{
+  color: white;
+  font-size: 40px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.middlemenu p{
+  color: white;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+#threecirclebuttons {
+  bottom: 100px;
+  left: 50%;
+  position: absolute;
+}
+.three.wide i {
+  left: 50%;
+  bottom: 3px;
+  position: absolute;
+}
+
+#rightbutton {
+  background-color: transparent;
+}
